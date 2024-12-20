@@ -1,11 +1,6 @@
 # Interactive-Password-Generator-Tool
 An interactive and customizable password generator web application built with HTML, CSS, and JavaScript. Features include adjustable password length, options to include/exclude characters (uppercase, lowercase, numbers, symbols), and a real-time password strength indicator.
 
-
-# Password Generator Tool
-
-An interactive and feature-rich password generator web application that helps users easily create secure passwords. Built with HTML, CSS, and JavaScript, this tool is designed to be intuitive, responsive, and highly customizable.
-
 # Features
 - Adjustable password length.
 - Options to include/exclude:
