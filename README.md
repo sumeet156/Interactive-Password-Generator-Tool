@@ -13,7 +13,7 @@ An interactive and customizable password generator web application built with HT
 - Deployed online for seamless access.
 
 # Live Demo
-Access the live application here: [Password Generator Tool](https://passwordconstruct.netlify.app/)
+Access the live application here: [Password Generator Tool](https://meowcodes-passwordgenerator.netlify.app/)
 
 ## Technologies Used
 - HTML: This is used to structure the web application.
